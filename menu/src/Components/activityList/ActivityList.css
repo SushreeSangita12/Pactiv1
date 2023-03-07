@@ -1,0 +1,6 @@
+.activitylist{
+    flex:3;
+    background-color: yellow;
+    /* width: 33px;
+    height:calc(100vh - 80px); */
+}

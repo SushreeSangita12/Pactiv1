@@ -1,0 +1,26 @@
+.wrapper{
+    display: flex;
+    background-color: grey;
+    height:100px;
+    width:100%;
+    
+}
+.wrapper > div {
+    background-color: grey;
+    margin:20 px;
+    padding:20 px;
+    font-size: 30 px;
+    width: 100px;
+    height: 50px;
+    
+}
+.text {
+    margin: auto;
+  }
+.circle {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+}

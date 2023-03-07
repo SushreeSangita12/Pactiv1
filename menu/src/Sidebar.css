@@ -1,0 +1,24 @@
+img{
+    height:50px;
+    width: 50px;
+    border: none;
+  }
+.wrapper{
+    display: flex;
+    background-color: grey;
+    flex-wrap: wrap;
+    height:1000px;
+    width:30px;
+    justify-content: flex-start;
+    align-items: left;
+}
+.wrapper > div {
+    background-color: grey;
+    margin:20 px;
+    padding:20 px;
+    font-size: 30 px;
+    width: 100px;
+    height: 50px;
+    
+}
+  

@@ -1,0 +1,10 @@
+.activityInsights{
+    flex:3;
+    background-color:green;
+    /* flex-direction: column; */
+    /* border: solid black; */
+    height:calc(100vh - 100px);
+    
+
+    /* width: 33px; */
+}
